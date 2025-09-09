@@ -8,27 +8,27 @@ Currently a student at HSFI
  ## Birthday: June 17th
 
  ## Skills
-  - html
-  - pyhton 
-  - css
-  - artistic
-  - problem solver
-  - quick thinker
+  - Html
+  - Python 
+  - Css
+  - Artistic
+  - Problem Solver
+  - Quick Thinker
   
 
  ## Socials
-- instagram
-- snapchat
-- pinetrest
+- Instagram
+- Snapchat
+- Pintrest
 
  ## Experience
- - warby parker
- - syep
- - enviormental science pre college
+ - Warby parker
+ - Syep
+ - Enviormental Science Pre-College
 
 
-## hobbies
-- puzzling
-- drawing
-- sewing
-- 
+## Hobbies
+- Puzzling
+- Drawing
+- Sewing
+  
