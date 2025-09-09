@@ -1,4 +1,8 @@
 # Kenzie Gonzalez
+
+![bluekenzie](Blue-Emojis-PNG-Transparent.png)
+
+
 Currently a student at HSFI
 
  ## Birthday: June 17th
