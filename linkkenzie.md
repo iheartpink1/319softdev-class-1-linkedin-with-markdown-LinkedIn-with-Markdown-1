@@ -2,6 +2,8 @@
 
 ![bluekenzie](Blue-Emojis-PNG-Transparent.png)
 
+> *"He who is not satisfied with a little, is satisfied with nothing" - Epiculus*
+
 
 Currently a student at HSFI
 contact her [kenzies email](kenzieg@gmail.com)
