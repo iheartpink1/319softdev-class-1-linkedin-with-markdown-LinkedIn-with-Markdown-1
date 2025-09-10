@@ -4,7 +4,7 @@
 
 
 Currently a student at HSFI
-
+contact her [kenzies email](kenzieg@gmail.com)
  ## Birthday: June 17th
 
  ## Skills
